@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ahk24
 - working mostly on deep learning and machine learning application using python and R
+- proficient in data snalysis, feature engineering, data cleaning and preprocessing, and AI model implementation
 - 📫 How to reach me: you could use my email : amirkbusiness.41@gmail.com
 
 <!---
