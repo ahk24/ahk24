@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ahk24
-- 👀 I’m interested in Data, Machine learning and building usefull little softwares 
-- 🌱 I’m currently learning about RNNs, GANs, 
-- 💞️ I’m looking to collaborate on projects that involeves data especially healthcare/biological data
+- working mostly on deep learning and machine learning application using python and R
 - 📫 How to reach me: you could use my email : amirkbusiness.41@gmail.com
 
 <!---
