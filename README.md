@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ahk24
 - working mostly on deep learning and machine learning application using python and R
-- proficient in data snalysis, feature engineering, data cleaning and preprocessing, and AI model implementation
+- Expert in AI vision, Gen AI, Foundational models, data analysis, feature engineering, data cleaning and preprocessing, and AI model implementation
+- Proficient in Machine/Deep learning libraries, HCP manger like Slurm, and Unix command line scripts.
 - 📫 How to reach me: you could use my email : amirkbusiness.41@gmail.com
 
 <!---
