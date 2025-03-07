@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahk24
+- 👋 Hi, I’m Amirhosein Kalhor
 - working mostly on deep learning and machine learning application using python and R, and side Projects for my Youtube channel Applission.
 - Expert in AI vision, Gen AI, Foundational models, data analysis, feature engineering, data cleaning and preprocessing, and AI model implementation
 - Proficient in Machine/Deep learning libraries, HCP manger like Slurm, and Unix command line scripts.
